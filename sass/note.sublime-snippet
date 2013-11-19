@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+<![CDATA[
+/*= ${1:COMMENT}
+==============================================*/
+${2:}
+		]]>
+	</content>
+	<tabTrigger>comment</tabTrigger>
+	<scope>source.sass</scope>
+</snippet>
